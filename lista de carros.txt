@@ -1,0 +1,35 @@
+//06-Veiculos Disponiveis VolksWagen
+    ["Temos os seguintes carros dessa marca: Golf, Gol, Jetta, Fox, Amarok, Polo"],
+    //6.1-Escolha VolksWagen
+    ["Otima escolha! Irei verificar as melhores ofertas desta marca para o senhor(a)",
+     "Perfeito! Estou consultando nosso banco de dados para lhe trazer as melhores ofertas."],
+    
+     //06.2-Veiculos Disponiveis Fiat
+    ["Temos os seguintes carros dessa marca: Uno, Strada, Palio, Idea, Punto, Cronos"],
+    //06.3-Escolha Fiat
+    ["Otima escolha! Irei verificar as melhores ofertas desta marca para o senhor(a)",
+    "Perfeito! Estou consultando nosso banco de dados para lhe trazer as melhores ofertas."],
+    
+    //06.4-Veiculos Disponiveis Chevrolet
+    ["Temos os seguintes carros dessa marca: Onix, Cruze, Astra, Corsa, Camaro, Prisma"], 
+    //06.5-Escolha Chevrolet
+    ["Otima escolha! Irei verificar as melhores ofertas desta marca para o senhor(a)",
+    "Perfeito! Estou consultando nosso banco de dados para lhe trazer as melhores ofertas."],
+    
+    //06.6-Veiculos Disponiveis Ford
+    ["Temos os seguintes carros dessa marca: Ka, Fiesta, Focus, Fusion, Edge, Mustang"],
+    //06.7-Escolha Ford
+    ["Otima escolha! Irei verificar as melhores ofertas desta marca para o senhor(a)",
+    "Perfeito! Estou consultando nosso banco de dados para lhe trazer as melhores ofertas."],
+    
+    //06.8-Veiculos Disponiveis Renault 
+    ["Temos os seguintes carros dessa marca: Clio, Megane, Sandero, Duster, Kwid, Fluence"],
+    //06.9-Escolha Renault
+    ["Otima escolha! Irei verificar as melhores ofertas desta marca para o senhor(a)",
+    "Perfeito! Estou consultando nosso banco de dados para lhe trazer as melhores ofertas."],
+    
+    //06.10-Veiculos Disponiveis Honda
+    ["Temos os seguintes carros dessa marca: Civic, City, Fit, HR-V, WR-V, Accord"],
+    //06.11-Escolha Honda
+    ["Otima escolha! Irei verificar as melhores ofertas desta marca para o senhor(a)",
+    "Perfeito! Estou consultando nosso banco de dados para lhe trazer as melhores ofertas."],
