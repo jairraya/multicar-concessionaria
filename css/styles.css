@@ -263,7 +263,7 @@ footer h6{
 #copyright{
     display: flex;
     justify-content: center;
-    color: white;
+    color: grey;
     background-color: black;
     font-family: 'Encode Sans Condensed', sans-serif;
 }
