@@ -243,6 +243,7 @@ p{
 }
 
 .nomes p{
+    text-decoration: none;
     font-family: 'Encode Sans Condensed', sans-serif;
     color:black;
     font-size: 18pt;
@@ -281,6 +282,15 @@ p{
     flex-direction: column;
     align-items: center;
     margin: 5px 0;
+}
+
+.nomes a{
+    text-decoration: none;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px 0; */
 }
 
 #menu{
