@@ -200,66 +200,6 @@ footer h6{
     align-items: center;
 }
 
-.facebook{
-    display: block;
-    background-image: url(../imagens/social-facebook.png);
-    width: 45px;
-    height: 60px;
-    background-color: black;
-    border: none;
-    margin: 0 22px;
-}
-
-/* .facebook:hover{
-    display: block;
-    background-image: url(../imagens/botao-fb.png);
-    width: 45px;
-    height: 60px;
-    background-color: white;
-    border: none;
-    margin: 0 22px;
-} */
-
-.instagram{
-    display: block;
-    background-image: url(../imagens/social-instagram.png);
-    width: 60px;
-    height: 60px;
-    background-color: black;
-    border: none;
-    margin: 0 22px;
-}
-
-/* .instagram:hover{
-    display: block;
-    background-image: url(../imagens/social-instagram.png);
-    width: 60px;
-    height: 60px;
-    background-color: white;
-    border: none;
-    margin: 0 22px;
-} */
-
-.whatsapp{
-    display: block;
-    background-image: url(../imagens/social-whatsapp.png);
-    width: 50px;
-    height: 60px;
-    background-color: black;
-    border: none;
-    margin: 0 22px;
-}
-
-/* .whatsapp:hover{
-    display: block;
-    background-image: url(../imagens/botao-wpp.png);
-    width: 50px;
-    height: 60px;
-    background-color: white;
-    border: none;
-    margin: 0 22px;
-} */
-
 #copyright{
     display: flex;
     justify-content: center;
