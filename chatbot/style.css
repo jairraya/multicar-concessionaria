@@ -1,0 +1,49 @@
+body{ 
+    color: rgb(0, 0, 0); 
+    font-weight: bold; 
+    font-size: 20px; 
+    font-family: "Arial"; 
+    font-style: oblique; 
+    background: rgb(0, 0, 0); 
+}
+
+body::after{
+    content: "";
+    background-image: url("bot.png");
+    background-repeat: repeat-y; 
+    background-size: 100%;
+    opacity: 1.0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+}
+
+span{ 
+    color: black; 
+} 
+
+::-webkit-input-placeholder{ 
+    color: silver
+}
+
+#main{ 
+    position: fixed; 
+    top: 5%; 
+    right: 300px; 
+    width: 200px; 
+    border: 0px solid black;
+    padding: 40px; 
+}
+
+#main div{ 
+    margin: 10px; 
+} 
+
+#input{ 
+    border: 1; 
+    padding: 20px; 
+    border: 3px solid black; 
+}
